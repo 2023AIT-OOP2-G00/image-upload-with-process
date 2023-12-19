@@ -6,7 +6,7 @@
 ## Initial Setting
 
 ```zsh
-$ git clone https://github.com/2022AIT-OOP2-GXX/image-upload-with-process.git
+$ git clone https://github.com/2023AIT-OOP2-G00/image-upload-with-process.git
 $ cd image-upload-with-process
 $ python -m venv .env
 $ source .env/bin/activate
