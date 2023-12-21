@@ -15,8 +15,8 @@ $ source .env/bin/activate
 
 ## Require
 
-Python version : 3.10 or higher
-OpenCV version : 4.8.1 or higher
+- Python version : 3.10 or higher
+- OpenCV version : 4.8.1 or higher
 
 ```
 Flask==3.0.0
